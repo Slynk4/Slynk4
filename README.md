@@ -2,9 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydmNteWltYjF1YWVhcHpjc3ptdmM5dHYxeDd5czdlZnc1ZXRzNjU5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"  />
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,6 +27,9 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydmNteWltYjF1YWVhcHpjc3ptdmM5dHYxeDd5czdlZnc1ZXRzNjU5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"  />
+
 
 ###
 
